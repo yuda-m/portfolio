@@ -20,6 +20,7 @@ module.exports = {
         flutter: '#02569B',
         postgresql: '#4169E1',
         mongodb: '#47A248',
+        elasticsearch: '#005571',
       },
       screen: {
         '2xl': '1320px',
