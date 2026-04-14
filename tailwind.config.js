@@ -21,6 +21,8 @@ module.exports = {
         postgresql: '#4169E1',
         mongodb: '#47A248',
         elasticsearch: '#005571',
+        redis: '#DC382D',
+        kafka: '#231F20',
       },
       screen: {
         '2xl': '1320px',
